@@ -1,6 +1,3 @@
-# Coalescent-Simulators
-
-
 # Standard Coalescent Simulator
 
 
