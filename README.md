@@ -2,11 +2,11 @@
 Standard Coalescent Simulator
 
 
-http://www.sourceforge.net/projects/forwsim/files/arg.c/download
+https://github.com/pkbadri/Coalescent-Simulators/blob/main/arg.c
 
-http://www.sourceforge.net/projects/forwsim/files/mtrand.h/download
+https://github.com/pkbadri/Coalescent-Simulators/blob/main/mtrand.h
 
-http://www.sourceforge.net/projects/forwsim/files/mtrand.cpp/download
+https://github.com/pkbadri/Coalescent-Simulators/blob/main/mtrand.cpp
 
 
 
@@ -16,11 +16,11 @@ Download the 3 files in the links above. arg.c is a C++ program that can efficie
 Fixed Segregating Sites Simulator
 
 
-http://www.sourceforge.net/projects/forwsim/files/fixedseg.c/download
+https://github.com/pkbadri/Coalescent-Simulators/blob/main/fixedseg.c
 
-http://www.sourceforge.net/projects/forwsim/files/mtrand.h/download
+https://github.com/pkbadri/Coalescent-Simulators/blob/main/mtrand.h
 
-http://www.sourceforge.net/projects/forwsim/files/mtrand.cpp/download
+https://github.com/pkbadri/Coalescent-Simulators/blob/main/mtrand.cpp
 
 
 
