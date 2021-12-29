@@ -3,7 +3,9 @@ Standard Coalescent Simulator
 
 
 http://www.sourceforge.net/projects/forwsim/files/arg.c/download
+
 http://www.sourceforge.net/projects/forwsim/files/mtrand.h/download
+
 http://www.sourceforge.net/projects/forwsim/files/mtrand.cpp/download
 
 
@@ -15,7 +17,9 @@ Fixed Segregating Sites Simulator
 
 
 http://www.sourceforge.net/projects/forwsim/files/fixedseg.c/download
+
 http://www.sourceforge.net/projects/forwsim/files/mtrand.h/download
+
 http://www.sourceforge.net/projects/forwsim/files/mtrand.cpp/download
 
 
